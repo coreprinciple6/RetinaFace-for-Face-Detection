@@ -3,7 +3,7 @@
 Retinaface is a single stage dense face detection model. This repo reproduces code available in [here](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB). Its a lightweight pretrained version of the model that uses ONNX and pytorch for the implementation. I also added the code to run the detector on video feed from webcam.
 
 * Original paper is [here](https://arxiv.org/abs/1905.00641)
-* A paper summary and explanation is available on my [Medium]()
+* A paper summary and explanation is available on my [Medium](https://medium.com/becoming-human/retinaface-face-detection-model-32a96abc12d1)
 * excellant [resource](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 * official code is [here](https://github.com/deepinsight/insightface)
 
